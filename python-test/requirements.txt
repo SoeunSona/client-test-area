@@ -1,0 +1,14 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+certifi==2023.11.17
+charset-normalizer==3.3.2
+-e git+ssh://git@github.com/chartmogul/chartmogul-python.git@6d347d7d79499a28f0dd5214c9d886408ccb330f#egg=chartmogul
+future==0.18.3
+idna==3.6
+macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+marshmallow==3.20.1
+packaging==23.2
+promise==2.3
+requests==2.31.0
+six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+uritemplate==4.1.1
+urllib3==2.0.4
