@@ -1,12 +1,12 @@
 ### For Go
 
-1. go.mod
+1. Replace your working chartmogul-go repository here in go.mod
 ```
 replace github.com/chartmogul/chartmogul-go/v4 => /Users/soeun/workspace/chartmogul-go <-- Replace a repository you are developing
 ```
 
 ### For Node
-1. Please copy your developing chartmogul-node and pase inside of node_modules
+1. Please copy your developing chartmogul-node and paste inside of node_modules
 2. please check .package-lock.json
 ```
 {
